@@ -1,0 +1,11 @@
+{
+  "name": "foo",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "typescript": "4.6.3"
+  },
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  }
+}
